@@ -7,10 +7,11 @@
 ---
 
 ### What version?
-
+```
+Kingfisher v1.69.0
 ```
 ![kingfisher_version](https://github.com/user-attachments/assets/b0dd04cc-44e1-4891-9b21-306d033130fa)
-```
+
 
 ### 🐞  What happened?
 
